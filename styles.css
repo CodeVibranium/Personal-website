@@ -1,0 +1,76 @@
+/*******************************BODY ELEMENTS****************************************/
+body {
+  background-color: #ecdfc8;;
+ text-align: center;
+ position: relative;
+  margin: 0;
+
+}
+ h1 {
+
+   margin: 0 auto 0 auto;
+   padding-top: 60px;
+    padding-left: 220px;
+font-family: 'Fondamento', cursive;
+}
+
+h2 {
+  padding-top: 20px;
+
+padding-left: 220px;
+font-family: 'Fondamento', cursive;
+}
+
+h3{
+  padding-left: 200px;
+  font-family: 'Libre Baskerville', serif;
+}
+
+ .two{
+   width:1500px;
+     text-align: center;
+
+ }
+
+ .one{
+   position: absolute;
+   left:1000px;
+   top: 30px;
+ }
+ .three{
+   position: absolute;
+  right:1000px;
+ }
+
+ .picture{
+  border-radius: 5%;
+   padding-top: 50px;
+ }
+
+ hr{
+   border-style: none ;
+   border-top-style: dotted;
+   border-width: 8px;
+   border-color: red;
+   width:5%;
+ }
+
+ .downone{
+   padding-right: 300px;
+ }
+ .downtwo
+ {padding-right: 300px;
+ padding-left: 300px;
+ font-family: 'Acme', sans-serif;
+}
+.downthree{
+  padding-right: 220px;
+  font-family: 'Acme', sans-serif;
+}
+.downfour{
+  padding-right: 200px;
+  font-family: 'Acme', sans-serif;
+}
+.downfive{
+  padding-right: 200px;
+}
